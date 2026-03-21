@@ -1,0 +1,5 @@
+{
+  "name": "The Artist Company - SLA 3D Printing Calculator",
+  "description": "Professional SLA 3D printing cost calculator with STL parsing, real-time pricing, and lead capture.",
+  "requestFramePermissions": []
+}
